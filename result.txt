@@ -1,0 +1,3 @@
+<function calculator at 0x000001DB57347D00><function calculator at 0x0000026BB6F57D00><function calculator at 0x00000148A8937E20>
+<function calculator at 0x0000016089917D00>
+12
