@@ -6,7 +6,7 @@
 
 # *Рандомное число от 1 до 100
 # import random
-# r = random.randint(1,100)
+# r = random.randint(1,101)
 # print(r)
 
 # *Квадратный корень числа
